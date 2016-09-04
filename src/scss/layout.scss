@@ -10,8 +10,12 @@
 
 .hero {
 	@include media-breakpoint-up(sm) {
-		padding: 45px 0;
+		padding: 45px 0 25px;
 	}
 
-  padding: 25px 0;
+  padding: 25px 0 15px;
+}
+
+.project-grid-filter {
+	margin-top: 1em;
 }
