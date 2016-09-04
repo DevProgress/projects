@@ -1,0 +1,20 @@
+.img-keycap {
+  height: 50px;
+  width: auto;
+}
+
+.bg-light {
+  background: $gray-lightest;
+}
+
+.dp-badge {
+  border-radius: 0;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
+
+.badge-success {
+  background: $brand-success;
+}

@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Tofino';
+  src: url('./fonts/Tofino-Regular.eot');
+  src: url('./fonts/Tofino-Regular.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Tofino-Regular.woff') format('woff'),
+      url('./fonts/Tofino-Regular.ttf') format('truetype'),
+      url('./fonts/Tofino-Regular.svg#Tofino-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tofino';
+  src: url('./fonts/Tofino-Bold.eot');
+  src: url('./fonts/Tofino-Bold.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Tofino-Bold.woff') format('woff'),
+      url('./fonts/Tofino-Bold.ttf') format('truetype'),
+      url('./fonts/Tofino-Bold.svg#Tofino-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+.remove-rhythm {
+  margin: 0;
+}
+
+.text-light {
+  color: $white;
+}
+
+hr {
+  border-color: $gray-lighter;
+}
+
+.hr-decorative {
+  margin: 0;
+}
+
+.hr-stubby {
+  margin: 1.5em 0;
+  max-width: 100px;
+}

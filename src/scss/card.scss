@@ -1,0 +1,50 @@
+.card {
+  background: $white;
+  border: 1px solid $gray-lighter;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  margin: 0 0 2em;
+}
+
+.project-card-image {
+  background-image: url('http://placekitten.com/350/200/');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+
+.project-card-body {
+  padding: 10px;
+}
+
+.project-card-footer-list {
+  display: inline-block;
+  margin: 0;
+  width: auto;
+}
+
+.project-card-footer-list li {
+  color: $gray;
+  padding: 10px 15px;
+  transition: color .2s ease-out;
+
+  &:hover {
+    color: $gray-dark;
+  }
+}
+
+.project-card-footer-list.right li {
+  border-left: 1px solid $gray-lighter;
+}
+
+.project-card-footer-list.left li {
+  border-right: 1px solid $gray-lighter;
+}
+
+.project-card-footer-list li a {
+  color: inherit;
+}
+
+.project-tech-stack li {
+  font-size: $font-size-h6;
+  text-transform: uppercase;
+}

@@ -1,0 +1,32 @@
+[
+	{
+	  "name": "Project #1",
+	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
+	  "techStack": ["Rails", "Angular"]
+	},
+	{
+	  "name": "Project #2",
+	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
+	  "techStack": ["Java", "Spring"]
+	},
+	{
+	  "name": "Project #3",
+	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
+	  "techStack": ["Rails", "Angular"]
+	},
+	{
+	  "name": "Project #4",
+	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
+	  "techStack": ["Rails", "Angular"]
+	},
+	{
+	  "name": "Project #5",
+	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
+	  "techStack": ["Rails", "Angular"]
+	},
+	{
+	  "name": "Project #6",
+	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
+	  "techStack": ["Rails", "Angular"]
+	}
+]
