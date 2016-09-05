@@ -2,12 +2,10 @@ import { Dispatcher } from 'flux';
 
 class DispatcherClass extends Dispatcher {
 
-  handleFilterAction(type) {
-  	console.info('Dispatcher', type);
+  handleFilterAction(action) {
 
     this.dispatch({
-      source: 'FILTER_GRID',
-      type: type,
+      action: action
     });
   }
 

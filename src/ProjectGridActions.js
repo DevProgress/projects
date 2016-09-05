@@ -1,9 +1,9 @@
 // Todo actions
 import AppDispatcher from './Dispatcher';
 
-export function filterGrid(type) {
+export function filterGrid(filter) {
   AppDispatcher.handleFilterAction({
     actionType: 'FILTER_GRID',
-    type: type
+    filter: filter
   });
 }

@@ -28,10 +28,10 @@ const ProjectGridStore = new ProjectGridStoreClass();
 
 AppDispatcher.register((payload) => {
 
-  switch (payload.type.actionType) {
+  switch (payload.action.actionType) {
 
   case "FILTER_GRID":
-    store.activeGridFilter = payload.type.type;
+    store.activeGridFilter = payload.action.filter;
     ProjectGridStore.emit(CHANGE_EVENT);
     break;
 
