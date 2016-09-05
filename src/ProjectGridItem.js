@@ -1,11 +1,16 @@
 import React, {Component} from 'react';
 
+
 class ProjectGridItem extends Component {
-  componentDidMount() {
-    console.info('We can haz props!');
-  }
   render() {
+    var badgeClass;
+
+    this.props.status === 'Shipped' ? 
+      badgeClass = 'badge-success' : 
+      badgeClass = 'badge-default';
+
     return(
+
         <div className="card project-card">
           <figure className="project-card-image"></figure>
           <div className="project-card-body">
@@ -22,7 +27,9 @@ class ProjectGridItem extends Component {
           <div className="project-card-footer clearfix text-right">
             <ul className="project-card-footer-list left list-inline pull-left">
               <li>
-                <span className="badge dp-badge badge-success text-light">Shipped</span>
+                <span className={"badge dp-badge text-light " + badgeClass }>
+                  { this.props.status }
+                </span>
               </li>
             </ul>
             <ul className="project-card-footer-list right list-inline pull-right">

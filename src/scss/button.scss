@@ -1,0 +1,17 @@
+.btn-default {
+	background: $white;
+	border-color: $gray-light;
+	color: $gray-dark;
+
+	&:hover {
+		background: $gray-lightest;
+	}
+	
+	&.active,
+	&:focus,
+	&:active {
+		background: $brand-primary;
+		border-color: $brand-primary;
+		color: $white;
+	}
+}

@@ -26,7 +26,7 @@ class Header extends Component {
             </div>
             <div className="row">
               <div className="col-sm-12">
-                <ProjectGridFilter />
+                <ProjectGridFilter activeFilter={this.props.activeFilter} />
               </div>
             </div>
           </div>

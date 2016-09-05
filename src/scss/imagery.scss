@@ -1,3 +1,7 @@
+.hide {
+	display: none !important;
+}
+
 .img-keycap {
   height: 50px;
   width: auto;
@@ -17,4 +21,8 @@
 
 .badge-success {
   background: $brand-success;
+}
+
+.badge-default {
+	background: $gray-light;
 }

@@ -2,31 +2,37 @@
 	{
 	  "name": "Project #1",
 	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"]
+	  "techStack": ["Rails", "Angular"],
+	  "status": "Shipped"
 	},
 	{
 	  "name": "Project #2",
 	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Java", "Spring"]
+	  "techStack": ["Java", "Spring"],
+	  "status": "In Progress"
 	},
 	{
 	  "name": "Project #3",
 	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"]
+	  "techStack": ["Rails", "Angular"],
+	  "status": "Shipped"
 	},
 	{
 	  "name": "Project #4",
 	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"]
+	  "techStack": ["Rails", "Angular"],
+	  "status": "In Progress"
 	},
 	{
 	  "name": "Project #5",
 	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"]
+	  "techStack": ["Rails", "Angular"],
+	  "status": "Shipped"
 	},
 	{
 	  "name": "Project #6",
 	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"]
+	  "techStack": ["Rails", "Angular"],
+	  "status": "Shipped"
 	}
 ]
