@@ -3,11 +3,8 @@ import React, {Component} from 'react';
 
 class ProjectGridItem extends Component {
   render() {
-    var badgeClass;
-
-    this.props.status === 'Shipped' ? 
-      badgeClass = 'badge-success' : 
-      badgeClass = 'badge-default';
+    var badgeClass = this.props.status === 'Shipped' ?
+      'badge-success' : 'badge-default';
 
     return(
 
