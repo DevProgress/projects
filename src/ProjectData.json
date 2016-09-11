@@ -1,38 +1,38 @@
 [
-	{
-	  "name": "Project #1",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "Shipped"
-	},
-	{
-	  "name": "Project #2",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Java", "Spring"],
-	  "status": "In Progress"
-	},
-	{
-	  "name": "Project #3",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "Shipped"
-	},
-	{
-	  "name": "Project #4",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "In Progress"
-	},
-	{
-	  "name": "Project #5",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "Shipped"
-	},
-	{
-	  "name": "Project #6",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "Shipped"
-	}
+    {
+      "name": "DevProgress.us",
+      "description": "The DevProgress.us Website",
+      "techStack": ["HTML", "CSS", "JS"],
+      "status": "Live"
+    },
+    {
+      "name": "Artist Site: Ortiz",
+      "description": "Video microsite built to showcase animation work of Cruz Ortiz at https://www.hillaryclinton.com/artist/ortiz/",
+      "techStack": ["HTML", "CSS", "JS"],
+      "status": "Live"
+    },
+    {
+      "name": "Artist Site: Holzer",
+      "description": "Video microsite built to showcase projection work of Jenny Holzer at https://www.hillaryclinton.com/artist/holzer/",
+      "techStack": ["HTML", "CSS", "JS"],
+      "status": "Live"
+    },
+    {
+      "name": "Artist Site: Mazza",
+      "description": "Interactive microsite built to showcase textile work of Cat Mazza at https://hillaryclinton.com/artist/mazza/",
+      "techStack": ["HTML", "CSS", "Node.js"],
+      "status": "Live"
+    },
+    {
+      "name": "csv-simple-search",
+      "description": "Client-side static site allowing for multi-keyword search, and subset export of comma separated value (.csv) files. http://devprogress.us/csv-simple-search",
+      "techStack": ["Node.js", "HTML", "CSS"],
+      "status": "Live"
+    },
+    {
+      "name": "Project #6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
+      "techStack": ["Rails", "Angular"],
+      "status": "Shipped"
+    }
 ]
