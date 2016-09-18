@@ -13,7 +13,7 @@
   "description": "Provides a Bingo game to play while watching the Presidential debates using phrases you can expect the candidates to say.",
   "techStack": ["Squarespace","React"],
   "status": "In Progress",
-  "imageUrl": "Presidentialdebatebingo.com",
+  "imageUrl": "",
   "repoUrl": "https://github.com/devprogress/debate-bingo",
   "demoUrl": "https://debate-bingo-dev.herokuapp.com"
   },
@@ -40,7 +40,7 @@
   "description": "Helps Hillary supporters find events and volunteer opportunities in their area.",
   "techStack": ["Javascript"],
   "status": "Live",
-  "imageUrl": "https://www.dropbox.com/s/d7xsbcl8p4grjzi/hrc4.gif?dl=0 ",
+  "imageUrl": "https://www.dropbox.com/s/d7xsbcl8p4grjzi/hrc4.gif ",
   "repoUrl": "https://github.com/DevProgress/hrc-events",
   "demoUrl": "https://devprogress.us/hrc-events/ "
   },
@@ -49,7 +49,7 @@
   "description": "Provides a bridge to different Google Calendar domains.",
   "techStack": ["Python","Google"],
   "status": "Live",
-  "imageUrl": "https://youtu.be/89NeVZEZJBI",
+  "imageUrl": "",
   "repoUrl": "https://github.com/ternus/gcal-bridge",
   "demoUrl": ""
   },

@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import placeholder from './placeholder.png';
 
 
 class ProjectGridItem extends Component {
@@ -19,18 +20,26 @@ class ProjectGridItem extends Component {
       this.props.demoUrl : '';
 
     var projectLinkText = this.props.demoUrl.length > 0 ?
-      '(' + this.props.demoUrl + ')' : 'No Link Available'
+      this.props.demoUrl : 'No Link Available'
+
+    var projectImage = this.props.imageUrl.length > 0 ?
+      this.props.imageUrl : placeholder;
+
+    var divStyle = {
+      backgroundImage: 'url(' + projectImage + ')',
+    };
 
     return(
 
-        <li className="card project-card">
+        <div className="card project-card">
+          <figure className="project-card-image" style={divStyle}></figure>
           <div className="project-card-body">
             <a className="project-card-title" onClick={ this.handleClick } href={projectLinkUrl} >
-              <h3 className="project-name">{this.props.name}
+              <h4 className="project-name">{this.props.name}
               <span className="project-card-link text-muted">{projectLinkText}</span>
-              </h3>
+              </h4>
             </a>
-            <p className="lead text-muted">{this.props.description}</p>
+            <p className="">{this.props.description}</p>
             <ul className="list-inline project-tech-stack">
               { this.props.techStack.map(function(technology, index) {
                 return <li key={index} className="text-muted list-inline-item">{ technology }</li>
@@ -59,7 +68,7 @@ class ProjectGridItem extends Component {
               </li>
             </ul>
           </div>
-        </li>
+        </div>
     )
   }
 }

@@ -27,18 +27,13 @@
 
 .project-card-link {
   display: block;
-  font-size: $font-size-h4;
+  font-size: $font-size-h5;
   margin: 10px 0;
   word-wrap: break-word;
-
-  @media(min-width: $screen-sm-min) {
-    display: inline-block;
-    margin: 0 0 0 10px;
-  }
 }
 
 .project-card-image {
-  background-image: url('http://placekitten.com/350/200/');
+  // background-image: url('http://placekitten.com/350/200/');
   background-repeat: no-repeat;
   background-size: cover;
   height: 200px;
