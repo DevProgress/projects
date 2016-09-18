@@ -5,7 +5,7 @@ import { EventEmitter } from 'events';
 const CHANGE_EVENT = 'change';
 
 let store = {
-  activeGridFilter: 'Shipped',
+  activeGridFilter: 'Live',
 };
 
 class ProjectGridStoreClass extends EventEmitter {

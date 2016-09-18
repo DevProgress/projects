@@ -9,13 +9,15 @@ class ProjectGridFilter extends Component {
 
   render() {
     return (
-      <ButtonToolbar className="project-grid-filter">
-        <ButtonGroup>
-          <Button active={this.props.activeFilter === 'All'} onClick={this.setFilter.bind(this, 'All')}>All</Button>
-          <Button active={this.props.activeFilter === 'Shipped'} onClick={this.setFilter.bind(this, 'Shipped')}>Shipped</Button>
-          <Button active={this.props.activeFilter === 'In Progress'} onClick={this.setFilter.bind(this, 'In Progress')}>In Progress</Button>
-        </ButtonGroup>
-      </ButtonToolbar>
+      <div className="project-grid-filter">
+        <ButtonToolbar>
+          <ButtonGroup>
+            <Button active={this.props.activeFilter === 'All'} onClick={this.setFilter.bind(this, 'All')}>All</Button>
+            <Button active={this.props.activeFilter === 'Live'} onClick={this.setFilter.bind(this, 'Live')}>Live</Button>
+            <Button active={this.props.activeFilter === 'In Progress'} onClick={this.setFilter.bind(this, 'In Progress')}>In Progress</Button>
+          </ButtonGroup>
+        </ButtonToolbar>
+      </div>
     )
   }
 }

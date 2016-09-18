@@ -26,7 +26,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header activeFilter={this.state.activeGridFilter} />
+        <Header />
         <ProjectGrid activeFilter={this.state.activeGridFilter} />
       </div>
     );
