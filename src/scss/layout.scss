@@ -4,12 +4,20 @@
   padding: 20px 0;
 }
 
+.hero {
+	padding: 15px 0;
+
+	@media(min-width: $screen-sm-min) {
+		padding: 25px 0;
+	}
+}
+
 .projects-grid {
   background: #fafafa;
   padding: 35px 0;
 }
 
 .project-grid-filter {
-  margin: 1em 0 3em;
+  margin: 1em 0;
   text-align: center;
 }
