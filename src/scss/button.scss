@@ -1,17 +1,23 @@
 .btn-default {
-	background: $white;
-	border-color: $gray-light;
-	color: $gray-dark;
+  background: $white;
+  border-color: $gray-light;
+  color: $gray-dark;
 
-	&:hover {
-		background: $gray-lightest;
-	}
-	
-	&.active,
-	&:focus,
-	&:active {
-		background: $brand-primary;
-		border-color: $brand-primary;
-		color: $white;
-	}
+  &:hover {
+    background: $gray-lightest;
+  }
+
+  &.active {
+    background: $brand-primary;
+    border-color: $brand-primary;
+    color: $white;
+        
+    &:focus,
+    &:visited,
+    &:active {
+      background: $brand-primary;
+      border-color: $brand-primary;
+      color: $white;
+    }
+  }
 }

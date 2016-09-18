@@ -1,38 +1,106 @@
 [
-	{
-	  "name": "Project #1",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "Shipped"
-	},
-	{
-	  "name": "Project #2",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Java", "Spring"],
-	  "status": "In Progress"
-	},
-	{
-	  "name": "Project #3",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "Shipped"
-	},
-	{
-	  "name": "Project #4",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "In Progress"
-	},
-	{
-	  "name": "Project #5",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "Shipped"
-	},
-	{
-	  "name": "Project #6",
-	  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptatibus eveniet consequuntur, accusantium, rerum dolor.",
-	  "techStack": ["Rails", "Angular"],
-	  "status": "Shipped"
-	}
+  {
+  "name": "CandidateBot",
+  "description": "A command line tool to create simple wikipedia pages for down-ticket candidates who don't have them",
+  "techStack": ["Python"],
+  "status": "In Progress",
+  "repoUrl": "https://github.com/DevProgress/candidatebot/ ",
+  "demoUrl": ""
+  },
+  {
+  "name": "Debate Bingo",
+  "description": "Bingo game to play while watching debates based on phrases they should say",
+  "techStack": ["Squarespace", "React"],
+  "status": "In Progress",
+  "repoUrl": "https://github.com/devprogress/debate-bingo",
+  "demoUrl": "https://debate-bingo-dev.herokuapp.com"
+  },
+  {
+  "name": "Donation collection for travel etc",
+  "description": "Provide instructions for ppl who want to Fundraise to go to battleground states",
+  "techStack": ["N/A"],
+  "status": "In Progress",
+  "repoUrl": "",
+  "demoUrl": ""
+  },
+  {
+  "name": "Drive the Vote",
+  "description": "Free rides to and from the polls on election day.",
+  "techStack": ["Rails", "React"],
+  "status": "In Progress",
+  "repoUrl": "https://github.com/john/drive.vote",
+  "demoUrl": ""
+  },
+  {
+  "name": "Events Map",
+  "description": "Find events and volunteer opportunities with the Clinton campaign in your area",
+  "techStack": ["Javascript"],
+  "status": "Live",
+  "repoUrl": "https://github.com/DevProgress/hrc-events",
+  "demoUrl": "https://devprogress.us/hrc-events/ "
+  },
+  {
+  "name": "Google Domain Bridge",
+  "description": "Bridge Google Calendar domains",
+  "techStack": ["Python", "Google"],
+  "status": "Live",
+  "repoUrl": "https://github.com/ternus/gcal-bridge",
+  "demoUrl": ""
+  },
+  {
+  "name": "HillaryBNB",
+  "description": "Share your home with volunteers; find places to stay while volunteering",
+  "techStack": ["Rails"],
+  "status": "In Progress",
+  "repoUrl": "https://github.com/devprogress/hillarybnb",
+  "demoUrl": "http://hillarybnb.com"
+  },
+  {
+  "name": "HRC Events map",
+  "description": "Show HRC events feed on an interactive map",
+  "techStack": ["Mapbox"],
+  "status": "Live",
+  "repoUrl": "https://github.com/devprogress/hrc-events",
+  "demoUrl": "https://devprogress.us/hrc-events/"
+  },
+  {
+  "name": "HRC FriendFinder",
+  "description": "Connect Clinton fans in areas where people have shallow progressive social pools",
+  "techStack": ["N/A"],
+  "status": "In Progress",
+  "repoUrl": "",
+  "demoUrl": ""
+  },
+  {
+  "name": "I like Hillary, but",
+  "description": "Website refuting common misconceptions about HRC",
+  "techStack": ["Jekyll", "Sass"],
+  "status": "In Progress",
+  "repoUrl": "https://github.com/DevProgress/i-like-hillary-but",
+  "demoUrl": "https://devprogress.us/i-like-hillary-but/"
+  },
+  {
+  "name": "Leader Boards for Phone Banks",
+  "description": "Provide leaderboards to phone bankers to incentivize excellence",
+  "techStack": ["NGPVAN", "Chrome Extensions"],
+  "status": "In Progress",
+  "repoUrl": "",
+  "demoUrl": ""
+  },
+  {
+  "name": "TacoTrucks.Party",
+  "description": "Sponsor a virtual taco truck and share with friends. Raise money for HRC and keep ridiculous Trump support words in the spotlight.",
+  "techStack": ["Google Maps", "Firebase"],
+  "status": "Live",
+  "repoUrl": "https://github.com/devprogress/more-tacos",
+  "demoUrl": "https://TacoTrucks.Party"
+  },
+  {
+  "name": "Visualize Voter Power",
+  "description": "Communicate real voter impact on down-ticket races",
+  "techStack": ["Python", "JS"],
+  "status": "In Progress",
+  "repoUrl": "",
+  "demoUrl": ""
+  }
 ]

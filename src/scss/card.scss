@@ -1,8 +1,40 @@
 .card {
   background: $white;
+}
+
+.project-card {
   border: 1px solid $gray-lighter;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
-  margin: 0 0 2em;
+  border-radius: 3px;
+  box-shadow: 0 2px 0 0 $gray-lighter;
+  margin: 0 0 15px;
+
+  &:last-of-type {
+    border-bottom: 0;
+  }
+}
+
+.project-name {
+  margin: 0 0 8px;
+}
+
+.project-card-title {
+  transition: color .2s ease-out;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.project-card-link {
+  display: block;
+  font-size: $font-size-h4;
+  margin: 10px 0;
+  word-wrap: break-word;
+
+  @media(min-width: $screen-sm-min) {
+    display: inline-block;
+    margin: 0 0 0 10px;
+  }
 }
 
 .project-card-image {
@@ -13,8 +45,9 @@
 }
 
 .project-card-body {
-  padding: 10px;
+  padding: 25px;
 }
+
 
 .project-card-footer-list {
   display: inline-block;
@@ -26,6 +59,7 @@
   color: $gray;
   padding: 10px 15px;
   transition: color .2s ease-out;
+  vertical-align: bottom;
 
   &:hover {
     color: $gray-dark;
@@ -44,7 +78,14 @@
   color: inherit;
 }
 
+.project-tech-stack:before {
+  color: $gray;
+  content: '\f121';
+  display: inline-block;
+  font-family: 'FontAwesome';
+}
+
 .project-tech-stack li {
-  font-size: $font-size-h6;
+  font-size: $font-size-h5;
   text-transform: uppercase;
 }

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Row, Col } from 'react-bootstrap';
 import ProjectGridItem from './ProjectGridItem';
+import ProjectGridFilter from './ProjectGridFilter';
 var ProjectData = require('./ProjectData.json');
 
 class ProjectGrid extends Component {
@@ -13,21 +14,31 @@ class ProjectGrid extends Component {
 		});
 
 		return(
-			<section className="projects-grid bg-light">
+			<section className="projects-grid">
 				<Grid>
 					<Row>
-						{ filteredProjectData.map(function(project, index) {
-							return (
-								<Col xs={12} sm={6} md={6} lg={4} key={index}>
-									<ProjectGridItem 
+						<Col xs={12}>
+							<ProjectGridFilter activeFilter={this.props.activeFilter} />
+						</Col>
+					</Row>
+					<Row>
+						<Col xs={10} xsOffset={1}>
+							<ul className="project-card-list list-unstyled">
+							{ filteredProjectData.map(function(project, index) {
+								return (
+									<ProjectGridItem
+										key={index}
+										repoUrl={project.repoUrl}
+										demoUrl={project.demoUrl}
 										name={project.name}
 										description={project.description}
 										techStack={project.techStack}
 										status={project.status}
 									/>
-								</Col>
-							)
-						})}
+								)
+							})}
+							</ul>
+						</Col>
 					</Row>
 				</Grid>
 			</section>

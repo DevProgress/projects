@@ -5,17 +5,16 @@
 }
 
 .projects-grid {
+  background: #fafafa;
   padding: 35px 0;
 }
 
-.hero {
-	@include media-breakpoint-up(sm) {
-		padding: 45px 0 25px;
-	}
-
-  padding: 25px 0 15px;
+.project-grid-filter {
+  margin: 1em 0 3em;
+  text-align: center;
 }
 
-.project-grid-filter {
-	margin-top: 1em;
+.project-grid-filter .btn-toolbar {
+  display: inline-block;
+  width: auto;
 }
