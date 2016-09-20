@@ -38,7 +38,7 @@
      },
      {
      "name": "csv-simple-search",
-     "description": "A simple multi keyword search and exporter for .csv files",
+     "description": "A simple multi keyword search and exporter for .CSV files",
      "techStack": ["HTML","CSS","JS","React"],
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18681622/e39d078e-7f36-11e6-9830-c5f22dfd72b9.jpg",
