@@ -1,155 +1,164 @@
 [
-  {
-  "name": "CandidateBot",
-  "description": "Allows down-ticket candidates to create simple Wikipedia pages.",
-  "techStack": ["Python"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/DevProgress/candidatebot/ ",
-  "demoUrl": ""
-  },
-  {
-  "name": "Debate Bingo",
-  "description": "Provides a Bingo game to play while watching the Presidential debates using phrases you can expect the candidates to say.",
-  "techStack": ["Squarespace","React"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/devprogress/debate-bingo",
-  "demoUrl": "https://debate-bingo-dev.herokuapp.com"
-  },
-  {
-  "name": "Donation Collection for Travel/Other Expenses",
-  "description": "Provides people interested in fundraising with instructions on how to travel to battleground states.",
-  "techStack": ["To be determined"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "",
-  "demoUrl": ""
-  },
-  {
-  "name": "Drive the Vote",
-  "description": "Connects drivers and people who need free rides to and from the polls on election day.",
-  "techStack": ["Rails","React"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/john/drive.vote",
-  "demoUrl": ""
-  },
-  {
-  "name": "Events Map",
-  "description": "Helps Hillary supporters find events and volunteer opportunities in their area.",
-  "techStack": ["Javascript"],
-  "status": "Live",
-  "imageUrl": "https://www.dropbox.com/s/d7xsbcl8p4grjzi/hrc4.gif ",
-  "repoUrl": "https://github.com/DevProgress/hrc-events",
-  "demoUrl": "https://devprogress.us/hrc-events/ "
-  },
-  {
-  "name": "Google Domain Bridge",
-  "description": "Provides a bridge to different Google Calendar domains.",
-  "techStack": ["Python","Google"],
-  "status": "Live",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/ternus/gcal-bridge",
-  "demoUrl": ""
-  },
-  {
-  "name": "Google Page Rank",
-  "description": "Provides a content management system (CMS) on a shared domain for low-resource down-ticket candidates, allowing them to have a web presence with a good Google page rank.",
-  "techStack": ["WordPress"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "",
-  "demoUrl": ""
-  },
-  {
-  "name": "HillaryBNB",
-  "description": "Connects people who want to share their homes with volunteers who need a place to stay.",
-  "techStack": ["Rails"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/devprogress/hillarybnb",
-  "demoUrl": "http://hillarybnb.com"
-  },
-  {
-  "name": "HRC Events Map",
-  "description": "Shows the Hillary events feed on an interactive map.",
-  "techStack": ["Jekyll","CSS/SASS"],
-  "status": "Live",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/devprogress/hrc-events",
-  "demoUrl": "https://devprogress.us/hrc-events/"
-  },
-  {
-  "name": "HRC FriendFinder",
-  "description": "Connects Hillary fans in areas of shallow progressive social pools.",
-  "techStack": ["To be determined"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "",
-  "demoUrl": ""
-  },
-  {
-  "name": "I Like Hillary, But...",
-  "description": "Refutes common misconceptions about Hillary.",
-  "techStack": ["Jekyll","CSS/SASS"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/DevProgress/i-like-hillary-but",
-  "demoUrl": "https://devprogress.us/i-like-hillary-but/"
-  },
-  {
-  "name": "Labor for Hillary",
-  "description": "Provides a web app showcasing art, state- by-state, in celebration of Labor Day.",
-  "techStack": ["JS","HTML","D3","ghpages"],
-  "status": "Live",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/DevProgress/mazza",
-  "demoUrl": "https://www.hillaryclinton.com/artist/mazza/"
-  },
-  {
-  "name": "Latinos for Hillary",
-  "description": "Provides a web app featuring a Latinos for Hillary YouTube video.",
-  "techStack": ["JS","HTML","D3","ghpages"],
-  "status": "Live",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/DevProgress/ortiz",
-  "demoUrl": "https://www.hillaryclinton.com/artist/ortiz/"
-  },
-  {
-  "name": "Leader Boards for Phone Banks",
-  "description": "Provides leaderboards to phone bankers to incentivize excellence.",
-  "techStack": ["NGPVAN","Chrome Extensions"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "",
-  "demoUrl": ""
-  },
-  {
-  "name": "TacoTrucks.Party",
-  "description": "Allows people to sponsor a virtual taco truck and share it with friends. Provides an opportunity to raise money for Hillary, and spotlight the ridiculous things Trump supporters say.",
-  "techStack": ["Google Maps","Firebase","Client-side JavaScript"],
-  "status": "Live",
-  "imageUrl": "https://cloud.githubusercontent.com/assets/1649528/18595294/e25965a2-7bf8-11e6-968e-a5f1ed36f7d6.png",
-  "repoUrl": "https://github.com/devprogress/more-tacos",
-  "demoUrl": "https://TacoTrucks.Party"
-  },
-  {
-  "name": "Visualize Voter Power",
-  "description": "Communicates real voter impact on down-ticket races.",
-  "techStack": ["Python","JS"],
-  "status": "In Progress",
-  "imageUrl": "",
-  "repoUrl": "",
-  "demoUrl": ""
-  },
-  {
-  "name": "Women for Hillary",
-  "description": "Provides a web app featuring a Women for Hillary YouTube video.",
-  "techStack": ["JS","HTML","D3","ghpages"],
-  "status": "Live",
-  "imageUrl": "",
-  "repoUrl": "https://github.com/DevProgress/holzer",
-  "demoUrl": "https://www.hillaryclinton.com/artist/holzer"
-  }
+    {
+    "name": "Alexa Quizzes",
+    "description": "Provides a new skill for Alexa-enabled devices (Echo and Tap speakers): interactive voice-driven quizzes, using questions created by the mobile quizzes group.",
+    "techStack": ["NodeJS","Amazon Alexa Skills Kit"],
+    "status": "In Progress",
+    "imageUrl": "https://github.com/DevProgress/alexa-quiz/blob/master/demo/card.png?raw=true",
+    "repoUrl": "https://github.com/DevProgress/alexa-quiz",
+    "demoUrl": "https://github.com/DevProgress/alexa-quiz/blob/master/demo/quiz.m4a?raw=true"
+    },
+    {
+    "name": "CandidateBot",
+    "description": "Allows down-ticket candidates to create simple Wikipedia pages.",
+    "techStack": ["Python"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "https://github.com/DevProgress/candidatebot/ ",
+    "demoUrl": "http://cso.noidea.dog/w/index.php/User:Candidatebot/sandbox/Misty_Plowright"
+    },
+    {
+    "name": "Debate Bingo",
+    "description": "Provides a Bingo game to play while watching the Presidential debates using phrases you can expect the candidates to say. Offers three modes: Hillary phrases, Trump phrases, or both.",
+    "techStack": ["Squarespace","React"],
+    "status": "Live",
+    "imageUrl": "",
+    "repoUrl": "https://github.com/devprogress/debate-bingo",
+    "demoUrl": "https://debate-bingo-dev.herokuapp.com"
+    },
+    {
+    "name": "Donation Collection for Travel/Other Expenses",
+    "description": "Provides people interested in fundraising with instructions on how to travel to battleground states.",
+    "techStack": ["To be determined"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "https://docs.google.com/document/d/1RLsZp7AzLJqPEjORY0wCFevDuBSkQ-zPZ_PA6s4FooE/edit?ts=57a16fb5#",
+    "demoUrl": ""
+    },
+    {
+    "name": "Drive the Vote",
+    "description": "Connects drivers and people who need free rides to and from the polls on election day.",
+    "techStack": ["Rails","React"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "https://github.com/john/drive.vote",
+    "demoUrl": ""
+    },
+    {
+    "name": "Google Domain Bridge",
+    "description": "Provides a bridge to different Google Calendar domains.",
+    "techStack": ["Python","Google"],
+    "status": "Live",
+    "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649086/7163aa70-7e72-11e6-8e88-597dbf6aa34d.jpg",
+    "repoUrl": "https://github.com/ternus/gcal-bridge",
+    "demoUrl": ""
+    },
+    {
+    "name": "Google Page Rank",
+    "description": "Provides a content management system (CMS) on a shared domain for low-resource down-ticket candidates, allowing them to have a web presence with a good Google page rank.",
+    "techStack": ["WordPress"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "",
+    "demoUrl": ""
+    },
+    {
+    "name": "HillaryBNB",
+    "description": "Connects people who want to share their homes with volunteers who need a place to stay.",
+    "techStack": ["Rails"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "https://github.com/devprogress/hillarybnb",
+    "demoUrl": "http://hillarybnb.com"
+    },
+    {
+    "name": "HRC Events Map",
+    "description": "Helps Hillary supporters find events and volunteer opportunities in their area.",
+    "techStack": ["Javascript"],
+    "status": "Live",
+    "imageUrl": "https://c1.staticflickr.com/9/8037/29342218640_8429488332_o.png ",
+    "repoUrl": "https://github.com/DevProgress/hrc-events",
+    "demoUrl": "https://devprogress.us/hrc-events/ "
+    },
+    {
+    "name": "HRC FriendFinder",
+    "description": "Connects Hillary fans in areas of shallow progressive social pools.",
+    "techStack": ["To be determined"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "",
+    "demoUrl": ""
+    },
+    {
+    "name": "I Like Hillary, But...",
+    "description": "Refutes common misconceptions about Hillary.",
+    "techStack": ["Jekyll","CSS/SASS"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "https://github.com/DevProgress/i-like-hillary-but",
+    "demoUrl": "https://devprogress.us/i-like-hillary-but/"
+    },
+    {
+    "name": "Labor for Hillary",
+    "description": "Provides a web app showcasing art, state- by-state, in celebration of Labor Day.",
+    "techStack": ["JS","HTML","D3","ghpages"],
+    "status": "Live",
+    "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649084/71595a2a-7e72-11e6-8600-a64ffdf9148e.jpg",
+    "repoUrl": "https://github.com/DevProgress/mazza",
+    "demoUrl": "https://www.hillaryclinton.com/artist/mazza/"
+    },
+    {
+    "name": "Latinos for Hillary",
+    "description": "Provides a web app featuring a Latinos for Hillary YouTube video.",
+    "techStack": ["JS","HTML","D3","ghpages"],
+    "status": "Live",
+    "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649085/71599422-7e72-11e6-9ffa-d858f2886b0e.jpg",
+    "repoUrl": "https://github.com/DevProgress/ortiz",
+    "demoUrl": "https://www.hillaryclinton.com/artist/ortiz/"
+    },
+    {
+    "name": "Leader Boards for Phone Banks",
+    "description": "Provides leaderboards to phone bankers to incentivize excellence.",
+    "techStack": ["NGPVAN","Chrome Extensions"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "",
+    "demoUrl": ""
+    },
+    {
+    "name": "Mobile Quizzes",
+    "description": "Provides quizzes (Topics and Q&A's) for the Hillary 2016 app.",
+    "techStack": ["JSON file"],
+    "status": "Live",
+    "imageUrl": "",
+    "repoUrl": "",
+    "demoUrl": ""
+    },
+    {
+    "name": "TacoTrucks.Party",
+    "description": "Allows people to sponsor a virtual taco truck and share it with friends. Provides an opportunity to raise money for Hillary, and spotlight the ridiculous things Trump supporters say.",
+    "techStack": ["Google Maps","Firebase","Client-side JavaScript"],
+    "status": "Live",
+    "imageUrl": "https://cloud.githubusercontent.com/assets/1649528/18595294/e25965a2-7bf8-11e6-968e-a5f1ed36f7d6.png",
+    "repoUrl": "https://github.com/devprogress/more-tacos",
+    "demoUrl": "https://TacoTrucks.Party"
+    },
+    {
+    "name": "Visualize Voter Power",
+    "description": "Communicates real voter impact on down-ticket races.",
+    "techStack": ["Python","JS"],
+    "status": "In Progress",
+    "imageUrl": "",
+    "repoUrl": "",
+    "demoUrl": ""
+    },
+    {
+    "name": "Women for Hillary",
+    "description": "Provides a web app featuring a Women for Hillary YouTube video.",
+    "techStack": ["JS","HTML","D3","ghpages"],
+    "status": "Live",
+    "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649083/7157473a-7e72-11e6-8a54-af7fdc2e60cb.jpg",
+    "repoUrl": "https://github.com/DevProgress/holzer",
+    "demoUrl": "https://www.hillaryclinton.com/artist/holzer"
+    }
 ]

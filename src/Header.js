@@ -19,9 +19,11 @@ class Header extends Component {
           <div className="container">   
             <div className="row">   
               <div className="col-sm-7">    
-                <h1 className="h2">Catchy Heading</h1>    
+                <h1 className="h2">
+                  We're Making Progress
+                </h1>    
                 <hr className="hr-stubby"></hr>   
-                <p className="lead text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quod eligendi architecto ducimus animi similique.</p>   
+                <p className="lead text-muted">Want to see the progress DevProgress is making? Check out the projects that are live right now, and those that are in the works</p>   
               </div>    
             </div>    
             <div className="row">   

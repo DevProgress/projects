@@ -17,13 +17,21 @@ class ProjectGridItem extends Component {
       'badge-success' : 'badge-default';
 
     var projectLinkUrl = this.props.demoUrl.length > 0 ?
-      this.props.demoUrl : '';
+      this.props.demoUrl : '#';
 
     var projectLinkText = this.props.demoUrl.length > 0 ?
       this.props.demoUrl : 'No Link Available'
 
     var projectImage = this.props.imageUrl.length > 0 ?
       this.props.imageUrl : placeholder;
+
+    var projectRepoUrl = this.props.repoUrl.length > 0 ?
+      this.props.repoUrl : '#';
+
+    var projectShareLink = 'https://twitter.com/home?status=' +
+      this.props.demoUrl + 
+      this.props.description + encodeURIComponent(' #devprogress');
+
 
     var divStyle = {
       backgroundImage: 'url(' + projectImage + ')',
@@ -57,12 +65,12 @@ class ProjectGridItem extends Component {
             </ul>
             <ul className="project-card-footer-list right list-inline pull-right">
               <li className="list-inline-item">
-                <a href="#">
+                <a target="_blank" href={ projectShareLink }>
                   <i className="fa fa-lg fa-share"></i>
                 </a>
               </li>
               <li className="list-inline-item">
-                <a target="_blank" href={this.props.repoUrl}>
+                <a target="_blank" onClick={ this.handleClick } href={ projectRepoUrl }>
                   <i className="fa fa-lg fa-github"></i>
                 </a>
               </li>
