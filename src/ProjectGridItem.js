@@ -70,7 +70,7 @@ class ProjectGridItem extends Component {
                 </a>
               </li>
               <li className="list-inline-item">
-                <a target="_blank" onClick={ this.handleClick } href={ projectRepoUrl }>
+                <a onClick={ this.handleClick } href={ projectRepoUrl }>
                   <i className="fa fa-lg fa-github"></i>
                 </a>
               </li>
