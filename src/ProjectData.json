@@ -10,13 +10,13 @@
      "demoUrl": "https://devprogress.us/acceptable-license"
      },
      {
-     "name": "Alexa Quizzes",
+     "name": "Quiz for America",
      "description": "Provides a new skill for Alexa-enabled devices (Echo and Tap speakers): interactive voice-driven quizzes, using questions created by the mobile quizzes group.",
      "techStack": ["NodeJS","Amazon Alexa Skills Kit"],
-     "status": "In Progress",
+     "status": "Live",
      "imageUrl": "https://github.com/DevProgress/alexa-quiz/blob/master/demo/card.png?raw=true",
      "repoUrl": "https://github.com/DevProgress/alexa-quiz",
-     "demoUrl": "https://github.com/DevProgress/alexa-quiz/blob/master/demo/quiz.m4a?raw=true"
+     "demoUrl": "https://www.youtube.com/watch?v=fARpCvSZdm4"
      },
      {
      "name": "CandidateBot",
@@ -182,11 +182,11 @@
      },
      {
      "name": "Leader Boards for Phone Banks",
-     "description": "Provides leaderboards to phone bankers to incentivize excellence.",
-     "techStack": ["NGPVAN","Chrome Extensions"],
+     "description": "Provides real-time leaderboards to phone bankers to incentivize excellence.",
+     "techStack": ["NGPVAN","Chrome Extensions", "Keen.io"],
      "status": "In Progress",
      "imageUrl": "",
-     "repoUrl": "",
+     "repoUrl": "https://github.com/devprogress/calling-leaderboards",
      "demoUrl": ""
      },
      {
