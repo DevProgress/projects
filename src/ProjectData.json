@@ -157,7 +157,7 @@
      "name": "I'd vote for Hillary, But...",
      "description": "Refutes common misconceptions about Hillary.",
      "techStack": ["Jekyll","CSS/SASS"],
-     "status": "In Progress",
+     "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656304/d467a7d4-7ea4-11e6-98a2-f787786037b9.jpg",
      "repoUrl": "https://github.com/DevProgress/i-like-hillary-but",
      "demoUrl": "https://hillarymyths.org/"
