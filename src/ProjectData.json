@@ -158,7 +158,7 @@
      "description": "Refutes common misconceptions about Hillary.",
      "techStack": ["Jekyll","CSS/SASS"],
      "status": "Live",
-     "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656304/d467a7d4-7ea4-11e6-98a2-f787786037b9.jpg",
+     "imageUrl": "https://hillarymyths.org/img/ivhb.png",
      "repoUrl": "https://github.com/DevProgress/i-like-hillary-but",
      "demoUrl": "https://hillarymyths.org/"
      },
