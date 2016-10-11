@@ -199,6 +199,15 @@
      "demoUrl": ""
      },
      {
+     "name": "Not My Locker Room",
+     "description": "Quotes from athletes whose locker rooms do not feature tales of assault.",
+     "techStack": ["HTML","JS"],
+     "status": "Live",
+     "imageUrl": "https://cloud.githubusercontent.com/assets/2319837/19288977/6a49801e-8fbd-11e6-9181-0cac83eb1caf.png",
+     "repoUrl": "https://github.com/DevProgress/not-my-locker-room",
+     "demoUrl": "https://notmylockerroom.com/"
+     },
+     {
      "name": "Onboarding Wiki",
      "description": "Document repository outlining best practices and advice for new members joining DevProgress.",
      "techStack": ["HTML","CSS","Markdown"],
