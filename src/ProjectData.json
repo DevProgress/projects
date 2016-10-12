@@ -262,6 +262,15 @@
      "demoUrl": ""
      },
      {
+     "name": "Who Dumped Trump?",
+     "description": "Shows which Republican candidates for governor, US Senate, and US House have dumped Trump",
+     "techStack": ["JS"],
+     "status": "Live",
+     "imageUrl": "https://cloud.githubusercontent.com/assets/2319837/19246632/2a8abaa6-8edc-11e6-91ce-066f23383a6d.png",
+     "repoUrl": "https://github.com/DevProgress/whodumpedtrump",
+     "demoUrl": "http://whodumpedtrump.com/"
+     },
+     {
      "name": "Women for Hillary",
      "description": "Provides a web app featuring a Women for Hillary YouTube video.",
      "techStack": ["JS","HTML","D3","ghpages"],
