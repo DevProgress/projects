@@ -24,6 +24,21 @@ class ProjectGridStoreClass extends EventEmitter {
 
 }
 
+function downloadCSV() {
+  var projects = require('./ProjectData.json');
+  var papa = require('papaparse');
+  var clickDownload = require('client-csv');
+  var csvData = papa.unparse(projects);
+  var anchor = document.createElement('a');
+  clickDownload(anchor, function(encode) {
+    return {
+      filename: 'projects.csv',
+      contents: encode.text(csvData),
+    };
+  });
+  anchor.click();
+}
+
 const ProjectGridStore = new ProjectGridStoreClass();
 
 AppDispatcher.register((payload) => {
@@ -33,6 +48,10 @@ AppDispatcher.register((payload) => {
   case "FILTER_GRID":
     store.activeGridFilter = payload.action.filter;
     ProjectGridStore.emit(CHANGE_EVENT);
+    break;
+
+  case "DOWNLOAD_CSV":
+    downloadCSV();
     break;
 
   default:

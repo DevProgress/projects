@@ -7,3 +7,9 @@ export function filterGrid(filter) {
     filter: filter
   });
 }
+
+export function downloadProjectDataCSV() {
+    AppDispatcher.handleFilterAction({
+        actionType: 'DOWNLOAD_CSV'
+    });
+}
