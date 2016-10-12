@@ -47,12 +47,12 @@
      },
      {
      "name": "Debate Bingo",
-     "description": "Provides a Bingo game to play while watching the Presidential debates using phrases you can expect the candidates to say. Offers three modes: Hillary phrases, Trump phrases, or both.",
+     "description": "Provides a Bingo game to play while watching the Presidential debates using phrases you can expect the candidates to say. Offers two modes: Hillary phrases or Trump phrases. No longer under active development.",
      "techStack": ["Squarespace","React"],
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656292/c4d6bc6a-7ea4-11e6-86a7-7d10ea768bb6.jpg",
      "repoUrl": "https://github.com/devprogress/debate-bingo",
-     "demoUrl": "https://debate-bingo-dev.herokuapp.com"
+     "demoUrl": "http://presidentialdebatebingo.com/"
      },
      {
      "name": "DevProgress.us",
