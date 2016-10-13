@@ -56,7 +56,9 @@ class ProjectGridItem extends Component {
                 return <li key={index} className="text-muted list-inline-item">{ technology }</li>
               })}
             </ul>
-            <p className="">LICENSE: {licenseText}</p>
+            <p className="text-muted">
+              License: {licenseText}
+            </p>
           </div>
           <hr className="hr-decorative"/>
           <div className="project-card-footer clearfix text-right">
