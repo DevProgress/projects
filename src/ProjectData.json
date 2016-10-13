@@ -7,7 +7,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682447/3e290e0c-7f3a-11e6-8a4b-7324476a0fe6.png",
      "repoUrl": "https://github.com/DevProgress/acceptable-licenses",
-     "demoUrl": "https://devprogress.us/acceptable-licenses"
+     "demoUrl": "https://devprogress.us/acceptable-licenses",
+     "license": "CC0 1.0 Universal"
      },
      {
      "name": "Quiz for America",
@@ -16,7 +17,8 @@
      "status": "Live",
      "imageUrl": "https://github.com/DevProgress/alexa-quiz/blob/master/demo/card.png?raw=true",
      "repoUrl": "https://github.com/DevProgress/alexa-quiz",
-     "demoUrl": "https://www.youtube.com/watch?v=fARpCvSZdm4"
+     "demoUrl": "https://www.youtube.com/watch?v=fARpCvSZdm4",
+     "license": "Apache-2.0"
      },
      {
      "name": "CandidateBot",
@@ -25,7 +27,8 @@
      "status": "In Progress",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18683191/2877f2d2-7f3d-11e6-991a-1e84af957092.png",
      "repoUrl": "https://github.com/DevProgress/candidatebot/ ",
-     "demoUrl": "http://cso.noidea.dog/w/index.php/User:Candidatebot/sandbox/Misty_Plowright"
+     "demoUrl": "http://cso.noidea.dog/w/index.php/User:Candidatebot/sandbox/Misty_Plowright",
+     "license": "GPL-3.0"
      },
      {
      "name": "code-of-conduct",
@@ -34,7 +37,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682103/f64c8704-7f38-11e6-82a8-79ba79012c77.jpg",
      "repoUrl": "https://github.com/DevProgress/code-of-conduct",
-     "demoUrl": "https://devprogress.us/code-of-conduct"
+     "demoUrl": "https://devprogress.us/code-of-conduct",
+     "license": "CC0 1.0"
      },
      {
      "name": "csv-simple-search",
@@ -43,7 +47,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18681622/e39d078e-7f36-11e6-9830-c5f22dfd72b9.jpg",
      "repoUrl": "https://github.com/DevProgress/csv-simple-search",
-     "demoUrl": "https://devprogress.us/csv-simple-search"
+     "demoUrl": "https://devprogress.us/csv-simple-search",
+     "license": "Apache-2.0"
      },
      {
      "name": "Debate Bingo",
@@ -52,7 +57,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656292/c4d6bc6a-7ea4-11e6-86a7-7d10ea768bb6.jpg",
      "repoUrl": "https://github.com/devprogress/debate-bingo",
-     "demoUrl": "http://presidentialdebatebingo.com/"
+     "demoUrl": "http://presidentialdebatebingo.com/",
+     "license": ""
      },
      {
      "name": "DevProgress.us",
@@ -61,7 +67,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18681647/fd8682d8-7f36-11e6-85ed-1ce5917d6617.jpg",
      "repoUrl": "https://github.com/DevProgress/devprogress.github.io",
-     "demoUrl": "https://devprogress.us"
+     "demoUrl": "https://devprogress.us",
+     "license": "MIT"
      },
      {
      "name": "DevProgress.us Projects",
@@ -70,7 +77,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18681996/791f95c8-7f38-11e6-8554-2f98eafdef23.jpg",
      "repoUrl": "https://github.com/DevProgress/projects",
-     "demoUrl": "https://devprogress.us/projects"
+     "demoUrl": "https://devprogress.us/projects",
+     "license": "Apache-2.0"
      },
      {
      "name": "Digital Ads Proxy",
@@ -79,7 +87,8 @@
      "status": "In Progress",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682448/3e2e97aa-7f3a-11e6-8d1c-6d54370f5e1e.png",
      "repoUrl": "",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "Digital Ads Tracking",
@@ -88,7 +97,8 @@
      "status": "Live",
      "imageUrl": "",
      "repoUrl": "",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "Donation Collection for Travel/Other Expenses",
@@ -97,7 +107,8 @@
      "status": "In Progress",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18683099/d9c8e2d6-7f3c-11e6-9bed-ef1cf8f922aa.png",
      "repoUrl": "https://docs.google.com/document/d/1RLsZp7AzLJqPEjORY0wCFevDuBSkQ-zPZ_PA6s4FooE/edit?ts=57a16fb5#",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "Drive the Vote",
@@ -106,7 +117,8 @@
      "status": "In Progress",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656293/c4d8cdfc-7ea4-11e6-9071-33597c34f5a4.jpg",
      "repoUrl": "https://github.com/john/drive.vote",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "Google Domain Bridge",
@@ -115,7 +127,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649086/7163aa70-7e72-11e6-8e88-597dbf6aa34d.jpg",
      "repoUrl": "https://github.com/ternus/gcal-bridge",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": "MIT"
      },
      {
      "name": "Google Page Rank",
@@ -124,7 +137,8 @@
      "status": "In Progress",
      "imageUrl": "",
      "repoUrl": "",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "HillaryBNB",
@@ -133,7 +147,8 @@
      "status": "In Progress",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656294/c4da9bb4-7ea4-11e6-9e7f-be5911db3dcd.jpg",
      "repoUrl": "https://github.com/devprogress/hillarybnb",
-     "demoUrl": "http://hillarybnb.com"
+     "demoUrl": "http://hillarybnb.com",
+     "license": "GNU Affero General Public License"
      },
      {
      "name": "HRC Events Map",
@@ -142,7 +157,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649082/7133943e-7e72-11e6-8a6e-f8ac16bc9ac0.jpg",
      "repoUrl": "https://github.com/DevProgress/hrc-events",
-     "demoUrl": "https://devprogress.us/hrc-events/ "
+     "demoUrl": "https://devprogress.us/hrc-events/ ",
+     "license": ""
      },
      {
      "name": "HRC FriendFinder",
@@ -151,7 +167,8 @@
      "status": "In Progress",
      "imageUrl": "",
      "repoUrl": "",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "I'd vote for Hillary, But...",
@@ -160,7 +177,8 @@
      "status": "Live",
      "imageUrl": "https://hillarymyths.org/img/ivhb.png",
      "repoUrl": "https://github.com/DevProgress/i-like-hillary-but",
-     "demoUrl": "https://hillarymyths.org/"
+     "demoUrl": "https://hillarymyths.org/",
+     "license": "Apache-2.0"
      },
      {
      "name": "Labor for Hillary",
@@ -169,7 +187,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649084/71595a2a-7e72-11e6-8600-a64ffdf9148e.jpg",
      "repoUrl": "https://github.com/DevProgress/mazza",
-     "demoUrl": "https://www.hillaryclinton.com/artist/mazza/"
+     "demoUrl": "https://www.hillaryclinton.com/artist/mazza/",
+     "license": "AGPL-3.0"
      },
      {
      "name": "Latinos for Hillary",
@@ -178,7 +197,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649085/71599422-7e72-11e6-9ffa-d858f2886b0e.jpg",
      "repoUrl": "https://github.com/DevProgress/ortiz",
-     "demoUrl": "https://www.hillaryclinton.com/artist/ortiz/"
+     "demoUrl": "https://www.hillaryclinton.com/artist/ortiz/",
+     "license": ""
      },
      {
      "name": "Leader Boards for Phone Banks",
@@ -187,7 +207,8 @@
      "status": "In Progress",
      "imageUrl": "",
      "repoUrl": "https://github.com/devprogress/calling-leaderboards",
-     "demoUrl": "https://devprogress.us/calling-leaderboards/dashboard.html"
+     "demoUrl": "https://devprogress.us/calling-leaderboards/dashboard.html",
+     "license": "GPL-3.0"
      },
      {
      "name": "Mobile Quizzes",
@@ -196,7 +217,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682850/cbb5a04a-7f3b-11e6-8bf5-705a41bf987e.PNG",
      "repoUrl": "",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "Not My Locker Room",
@@ -205,7 +227,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/2319837/19288977/6a49801e-8fbd-11e6-9181-0cac83eb1caf.png",
      "repoUrl": "https://github.com/DevProgress/not-my-locker-room",
-     "demoUrl": "https://notmylockerroom.com/"
+     "demoUrl": "https://notmylockerroom.com/",
+     "license": "MIT"
      },
      {
      "name": "Onboarding Wiki",
@@ -214,7 +237,8 @@
      "status": "In Progress",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682596/e7d93e68-7f3a-11e6-99a8-c580e38dbbb7.png",
      "repoUrl": "https://github.com/DevProgress/onboarding",
-     "demoUrl": "https://github.com/devprogress/onboarding/wiki"
+     "demoUrl": "https://github.com/devprogress/onboarding/wiki",
+     "license": ""
      },
      {
      "name": "OpenOpportunties Instance",
@@ -223,7 +247,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18683360/eb004a34-7f3d-11e6-89d1-f2a71e63f965.png",
      "repoUrl": "",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "RVertica",
@@ -232,7 +257,8 @@
      "status": "In Progress",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682710/471e3644-7f3b-11e6-805c-1a90becf7cd4.png",
      "repoUrl": "https://github.com/DevProgress/RVertica",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "SharpUnity for Closed Captions",
@@ -241,7 +267,8 @@
      "status": "Live",
      "imageUrl": "",
      "repoUrl": "",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "TacoTrucks.Party",
@@ -250,7 +277,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/1649528/18595294/e25965a2-7bf8-11e6-968e-a5f1ed36f7d6.png",
      "repoUrl": "https://github.com/devprogress/more-tacos",
-     "demoUrl": "https://TacoTrucks.Party"
+     "demoUrl": "https://TacoTrucks.Party",
+     "license": ""
      },
      {
      "name": "Visualize Voter Power",
@@ -259,7 +287,8 @@
      "status": "In Progress",
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18683040/9db03dc6-7f3c-11e6-9c49-231c7ca22aa9.png",
      "repoUrl": "",
-     "demoUrl": ""
+     "demoUrl": "",
+     "license": ""
      },
      {
      "name": "Who Dumped Trump?",
@@ -268,7 +297,8 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/2319837/19246632/2a8abaa6-8edc-11e6-91ce-066f23383a6d.png",
      "repoUrl": "https://github.com/DevProgress/whodumpedtrump",
-     "demoUrl": "http://whodumpedtrump.com/"
+     "demoUrl": "http://whodumpedtrump.com/",
+     "license": "MIT"
      },
      {
      "name": "Women for Hillary",
@@ -277,6 +307,7 @@
      "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649083/7157473a-7e72-11e6-8a54-af7fdc2e60cb.jpg",
      "repoUrl": "https://github.com/DevProgress/holzer",
-     "demoUrl": "https://www.hillaryclinton.com/artist/holzer"
+     "demoUrl": "https://www.hillaryclinton.com/artist/holzer",
+     "license": ""
      }
 ]

@@ -26,6 +26,7 @@ class ProjectGrid extends Component {
 					name={project.name}
 					description={project.description}
 					techStack={project.techStack}
+					license={project.license}
 					status={project.status}
 				/>
 			)
