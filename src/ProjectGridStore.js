@@ -1,4 +1,5 @@
-
+import clickDownload from 'client-csv';
+import papa from 'papaparse';
 import AppDispatcher from './Dispatcher';
 import { EventEmitter } from 'events';
 
@@ -26,8 +27,6 @@ class ProjectGridStoreClass extends EventEmitter {
 
 function downloadCSV() {
   var projects = require('./ProjectData.json');
-  var papa = require('papaparse');
-  var clickDownload = require('client-csv');
   var csvData = papa.unparse(projects);
   var anchor = document.createElement('a');
   clickDownload(anchor, function(encode) {

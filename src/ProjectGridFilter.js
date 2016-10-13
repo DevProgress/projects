@@ -21,7 +21,10 @@ class ProjectGridFilter extends Component {
             <Button active={this.props.activeFilter === 'In Progress'} onClick={this.setFilter.bind(this, 'In Progress')}>In Progress</Button>
           </ButtonGroup>
           <ButtonGroup>
-            <Button onClick={this.downloadCSV.bind(this)}>Download Project Data CSV</Button>
+            <button className="btn btn-link btn-csv-download" onClick={this.downloadCSV.bind(this)}>
+              <i className="fa fa-download icon"></i>
+              Download Project Data CSV
+            </button>
           </ButtonGroup>
         </ButtonToolbar>
       </div>
