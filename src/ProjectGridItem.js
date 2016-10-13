@@ -37,6 +37,9 @@ class ProjectGridItem extends Component {
       backgroundImage: 'url(' + projectImage + ')',
     };
 
+    var licenseText = this.props.license.length > 0 ?
+        this.props.license : 'LICENSE NEEDED';
+
     return(
 
         <div className="card project-card">
@@ -53,6 +56,9 @@ class ProjectGridItem extends Component {
                 return <li key={index} className="text-muted list-inline-item">{ technology }</li>
               })}
             </ul>
+            <p className="text-muted">
+              License: {licenseText}
+            </p>
           </div>
           <hr className="hr-decorative"/>
           <div className="project-card-footer clearfix text-right">
