@@ -1,4 +1,4 @@
-import clickDownload from 'client-csv';
+import clickDownload from 'client-csv/dl.js';
 import papa from 'papaparse';
 import AppDispatcher from './Dispatcher';
 import { EventEmitter } from 'events';
