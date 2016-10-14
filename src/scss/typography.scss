@@ -16,6 +16,17 @@
       url('./fonts/Tofino-Bold.woff') format('woff'),
       url('./fonts/Tofino-Bold.ttf') format('truetype'),
       url('./fonts/Tofino-Bold.svg#Tofino-Bold') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tofino';
+  src: url('./fonts/Tofino-Bold.eot');
+  src: url('./fonts/Tofino-Bold.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Tofino-Bold.woff') format('woff'),
+      url('./fonts/Tofino-Bold.ttf') format('truetype'),
+      url('./fonts/Tofino-Bold.svg#Tofino-Bold') format('svg');
   font-weight: 700;
   font-style: normal;
 }
@@ -26,6 +37,10 @@
 
 .text-light {
   color: $white;
+}
+
+.lead {
+  font-weight: normal;
 }
 
 hr {
