@@ -280,6 +280,16 @@
      "license": ""
      },
      {
+     "name": "Swear Jar",
+     "description": "Donate a quarter to Hillary every time Trump tweets something Trump-ish",
+     "techStack": ["JS"],
+     "status": "Live",
+     "imageUrl": "https://cloud.githubusercontent.com/assets/2319837/19398551/0f162408-9202-11e6-8de4-88b1c62d9a8a.png",
+     "repoUrl": "https://github.com/DevProgress/swear-jar",
+     "demoUrl": "http://ifihadaquarter.com/",
+     "license": "GPL-3.0"
+     },
+     {
      "name": "TacoTrucks.Party",
      "description": "Allows people to sponsor a virtual taco truck and share it with friends. Provides an opportunity to raise money for Hillary, and spotlight the ridiculous things Trump supporters say.",
      "techStack": ["Google Maps","Firebase","Client-side JavaScript"],
@@ -287,7 +297,7 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/1649528/18595294/e25965a2-7bf8-11e6-968e-a5f1ed36f7d6.png",
      "repoUrl": "https://github.com/devprogress/more-tacos",
      "demoUrl": "https://TacoTrucks.Party",
-     "license": ""
+     "license": "MIT"
      },
      {
      "name": "Visualize Voter Power",
