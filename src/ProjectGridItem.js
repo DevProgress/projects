@@ -40,6 +40,9 @@ class ProjectGridItem extends Component {
     var licenseText = this.props.license.length > 0 ?
         this.props.license : 'LICENSE NEEDED';
 
+    var slackChannelText = this.props.slackChannel.length > 0 ?
+        this.props.slackChannel : 'NONE';
+
     return(
 
         <div className="card project-card">
@@ -58,6 +61,9 @@ class ProjectGridItem extends Component {
             </ul>
             <p className="text-muted">
               License: {licenseText}
+            </p>
+            <p className="text-muted">
+              Slack channel: {slackChannelText}
             </p>
           </div>
           <hr className="hr-decorative"/>
