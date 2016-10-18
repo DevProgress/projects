@@ -230,6 +230,7 @@
      "demoUrl": "",
      "license": ""
      },
+     {
      "name": "My Vote Matters",
      "description": "App for sharing selfies with filters & captions about why your vote matters (focused on women's right to vote), integrated with Twitter/FB.",
      "techStack": ["HTML", "CSS", "JS"],
