@@ -144,7 +144,7 @@
      "name": "HillaryBNB",
      "description": "Connects people who want to share their homes with volunteers who need a place to stay.",
      "techStack": ["Rails"],
-     "status": "In Progress",
+     "status": "Live",
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656294/c4da9bb4-7ea4-11e6-9e7f-be5911db3dcd.jpg",
      "repoUrl": "https://github.com/devprogress/hillarybnb",
      "demoUrl": "http://hillarybnb.com",
