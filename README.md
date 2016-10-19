@@ -12,8 +12,5 @@
 
 # Deploy the Website
 
-Make sure you have Gulp installed
-
-`npm install -g gulp-cli`
-
-`gulp deploy` 
+`npm install -g gh-pages`
+`npm run deploy`
