@@ -28,6 +28,7 @@ class ProjectGrid extends Component {
 					techStack={project.techStack}
 					license={project.license}
 					status={project.status}
+					slackChannel={project.slackChannel}
 				/>
 			)
 		});

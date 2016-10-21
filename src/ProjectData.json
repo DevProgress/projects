@@ -8,7 +8,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682447/3e290e0c-7f3a-11e6-8a4b-7324476a0fe6.png",
      "repoUrl": "https://github.com/DevProgress/acceptable-licenses",
      "demoUrl": "https://devprogress.us/acceptable-licenses",
-     "license": "CC0 1.0 Universal"
+     "license": "CC0 1.0 Universal",
+     "slackChannel": ""
      },
      {
      "name": "Quiz for America",
@@ -18,7 +19,8 @@
      "imageUrl": "https://github.com/DevProgress/alexa-quiz/blob/master/demo/card.png?raw=true",
      "repoUrl": "https://github.com/DevProgress/alexa-quiz",
      "demoUrl": "https://www.youtube.com/watch?v=fARpCvSZdm4",
-     "license": "Apache-2.0"
+     "license": "Apache-2.0",
+     "slackChannel": "#proj-alexa-echo-quiz"
      },
      {
      "name": "CandidateBot",
@@ -28,7 +30,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18683191/2877f2d2-7f3d-11e6-991a-1e84af957092.png",
      "repoUrl": "https://github.com/DevProgress/candidatebot/ ",
      "demoUrl": "http://cso.noidea.dog/w/index.php/User:Candidatebot/sandbox/Misty_Plowright",
-     "license": "GPL-3.0"
+     "license": "GPL-3.0",
+     "slackChannel": "#proj-candidatebot"
      },
      {
      "name": "code-of-conduct",
@@ -38,7 +41,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682103/f64c8704-7f38-11e6-82a8-79ba79012c77.jpg",
      "repoUrl": "https://github.com/DevProgress/code-of-conduct",
      "demoUrl": "https://devprogress.us/code-of-conduct",
-     "license": "CC0 1.0"
+     "license": "CC0 1.0",
+     "slackChannel": "#wg-code-of-conduct"
      },
      {
      "name": "csv-simple-search",
@@ -48,7 +52,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18681622/e39d078e-7f36-11e6-9830-c5f22dfd72b9.jpg",
      "repoUrl": "https://github.com/DevProgress/csv-simple-search",
      "demoUrl": "https://devprogress.us/csv-simple-search",
-     "license": "Apache-2.0"
+     "license": "Apache-2.0",
+     "slackChannel": "#dev-csv-simple-search"
      },
      {
      "name": "Debate Bingo",
@@ -58,7 +63,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656292/c4d6bc6a-7ea4-11e6-86a7-7d10ea768bb6.jpg",
      "repoUrl": "https://github.com/devprogress/debate-bingo",
      "demoUrl": "http://presidentialdebatebingo.com/",
-     "license": "MIT"
+     "license": "MIT",
+     "slackChannel": ""
      },
      {
      "name": "DevProgress.us",
@@ -68,7 +74,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18681647/fd8682d8-7f36-11e6-85ed-1ce5917d6617.jpg",
      "repoUrl": "https://github.com/DevProgress/devprogress.github.io",
      "demoUrl": "https://devprogress.us",
-     "license": "MIT"
+     "license": "MIT",
+     "slackChannel": ""
      },
      {
      "name": "DevProgress.us Projects",
@@ -78,7 +85,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18681996/791f95c8-7f38-11e6-8554-2f98eafdef23.jpg",
      "repoUrl": "https://github.com/DevProgress/projects",
      "demoUrl": "https://devprogress.us/projects",
-     "license": "Apache-2.0"
+     "license": "Apache-2.0",
+     "slackChannel": "#proj-landing-page"
      },
      {
      "name": "Digital Ads Proxy",
@@ -88,7 +96,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682448/3e2e97aa-7f3a-11e6-8d1c-6d54370f5e1e.png",
      "repoUrl": "",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-digital-ad-proxy"
      },
      {
      "name": "Digital Ads Tracking",
@@ -98,7 +107,8 @@
      "imageUrl": "",
      "repoUrl": "",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": "#digital-ads-tracking"
      },
      {
      "name": "Donation Collection for Travel/Other Expenses",
@@ -108,7 +118,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18683099/d9c8e2d6-7f3c-11e6-9bed-ef1cf8f922aa.png",
      "repoUrl": "https://docs.google.com/document/d/1RLsZp7AzLJqPEjORY0wCFevDuBSkQ-zPZ_PA6s4FooE/edit?ts=57a16fb5#",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-travel-funding"
      },
      {
      "name": "Drive the Vote",
@@ -118,7 +129,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656293/c4d8cdfc-7ea4-11e6-9071-33597c34f5a4.jpg",
      "repoUrl": "https://github.com/john/drive.vote",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-drive-the-vote"
      },
      {
      "name": "Google Domain Bridge",
@@ -128,7 +140,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649086/7163aa70-7e72-11e6-8e88-597dbf6aa34d.jpg",
      "repoUrl": "https://github.com/ternus/gcal-bridge",
      "demoUrl": "",
-     "license": "MIT"
+     "license": "MIT",
+     "slackChannel": "#proj-gdomainbridge"
      },
      {
      "name": "Google Page Rank",
@@ -138,7 +151,8 @@
      "imageUrl": "",
      "repoUrl": "",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-google-pagerank"
      },
      {
      "name": "HillaryBNB",
@@ -148,7 +162,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18656294/c4da9bb4-7ea4-11e6-9e7f-be5911db3dcd.jpg",
      "repoUrl": "https://github.com/devprogress/hillarybnb",
      "demoUrl": "http://hillarybnb.com",
-     "license": "GNU Affero General Public License"
+     "license": "GNU Affero General Public License",
+     "slackChannel": "#proj-hrcbnb"
      },
      {
      "name": "HRC Events Map",
@@ -158,7 +173,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649082/7133943e-7e72-11e6-8a6e-f8ac16bc9ac0.jpg",
      "repoUrl": "https://github.com/DevProgress/hrc-events",
      "demoUrl": "https://devprogress.us/hrc-events/ ",
-     "license": "MIT"
+     "license": "MIT",
+     "slackChannel": "#proj-eventsmap"
      },
      {
      "name": "HRC FriendFinder",
@@ -168,7 +184,8 @@
      "imageUrl": "",
      "repoUrl": "",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": ""
      },
      {
      "name": "HRC Truth Bot",
@@ -178,7 +195,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/1126320/19450645/46cf679c-9478-11e6-97c5-01f05f0b89db.png",
      "repoUrl": "https://github.com/DevProgress/truth_bot",
      "demoUrl": "https://twitter.com/M1982Jamison/with_replies",
-     "license": "GPL-3.0"
+     "license": "GPL-3.0",
+     "slackChannel": "#proj-truth-bot"
      },
      {
      "name": "I'd vote for Hillary, But...",
@@ -188,7 +206,8 @@
      "imageUrl": "https://hillarymyths.org/img/ivhb.png",
      "repoUrl": "https://github.com/DevProgress/i-like-hillary-but",
      "demoUrl": "https://hillarymyths.org/",
-     "license": "Apache-2.0"
+     "license": "Apache-2.0",
+     "slackChannel": "#proj-i-like-hillary-b"
      },
      {
      "name": "Labor for Hillary",
@@ -198,7 +217,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649084/71595a2a-7e72-11e6-8600-a64ffdf9148e.jpg",
      "repoUrl": "https://github.com/DevProgress/mazza",
      "demoUrl": "https://www.hillaryclinton.com/artist/mazza/",
-     "license": "AGPL-3.0"
+     "license": "AGPL-3.0",
+     "slackChannel": "#proj-maps-showcase"
      },
      {
      "name": "Latinos for Hillary",
@@ -208,7 +228,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649085/71599422-7e72-11e6-9ffa-d858f2886b0e.jpg",
      "repoUrl": "https://github.com/DevProgress/ortiz",
      "demoUrl": "https://www.hillaryclinton.com/artist/ortiz/",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-maps-showcase"
      },
      {
      "name": "Leader Boards for Phone Banks",
@@ -218,7 +239,8 @@
      "imageUrl": "",
      "repoUrl": "https://github.com/devprogress/calling-leaderboards",
      "demoUrl": "https://devprogress.us/calling-leaderboards/dashboard.html",
-     "license": "GPL-3.0"
+     "license": "GPL-3.0",
+     "slackChannel": "#proj-leaderboard---t"
      },
      {
      "name": "Mobile Quizzes",
@@ -228,7 +250,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682850/cbb5a04a-7f3b-11e6-8bf5-705a41bf987e.PNG",
      "repoUrl": "",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-mobilequizzes"
      },
      {
      "name": "My Vote Matters",
@@ -238,7 +261,8 @@
      "imageUrl": "https://files.slack.com/files-pri/T1AJ4F4KC-F2Q2TK3DM/version_2.png",
      "repoUrl": "https://github.com/DevProgress/my-vote-matters",
      "demoUrl": "",
-     "license": "AGPL-3.0"
+     "license": "AGPL-3.0",
+     "slackChannel": "#proj-myvotematters"
      },
      {
      "name": "Not My Locker Room",
@@ -248,7 +272,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/2319837/19288977/6a49801e-8fbd-11e6-9181-0cac83eb1caf.png",
      "repoUrl": "https://github.com/DevProgress/not-my-locker-room",
      "demoUrl": "https://notmylockerroom.com/",
-     "license": "MIT"
+     "license": "MIT",
+     "slackChannel": "#proj-notmylockerroom"
      },
      {
      "name": "Onboarding Wiki",
@@ -258,7 +283,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682596/e7d93e68-7f3a-11e6-99a8-c580e38dbbb7.png",
      "repoUrl": "https://github.com/DevProgress/onboarding",
      "demoUrl": "https://github.com/devprogress/onboarding/wiki",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-onboarding-slack"
      },
      {
      "name": "OpenOpportunties Instance",
@@ -268,7 +294,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18683360/eb004a34-7f3d-11e6-89d1-f2a71e63f965.png",
      "repoUrl": "",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": ""
      },
      {
      "name": "RVertica",
@@ -278,7 +305,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18682710/471e3644-7f3b-11e6-805c-1a90becf7cd4.png",
      "repoUrl": "https://github.com/DevProgress/RVertica",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-vertica-r-driver"
      },
      {
      "name": "SharpUnity for Closed Captions",
@@ -288,7 +316,8 @@
      "imageUrl": "",
      "repoUrl": "",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": ""
      },
      {
      "name": "Swear Jar",
@@ -298,7 +327,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/2319837/19398551/0f162408-9202-11e6-8de4-88b1c62d9a8a.png",
      "repoUrl": "https://github.com/DevProgress/swear-jar",
      "demoUrl": "http://ifihadaquarter.com/",
-     "license": "GPL-3.0"
+     "license": "GPL-3.0",
+     "slackChannel": "#proj-swear-jar"
      },
      {
      "name": "TacoTrucks.Party",
@@ -308,7 +338,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/1649528/18595294/e25965a2-7bf8-11e6-968e-a5f1ed36f7d6.png",
      "repoUrl": "https://github.com/devprogress/more-tacos",
      "demoUrl": "https://TacoTrucks.Party",
-     "license": "MIT"
+     "license": "MIT",
+     "slackChannel": "#proj-more-tacos"
      },
      {
      "name": "Visualize Voter Power",
@@ -318,7 +349,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/21959358/18683040/9db03dc6-7f3c-11e6-9c49-231c7ca22aa9.png",
      "repoUrl": "",
      "demoUrl": "",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-visualize-voter-"
      },
      {
      "name": "Who Dumped Trump?",
@@ -328,7 +360,8 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/2319837/19246632/2a8abaa6-8edc-11e6-91ce-066f23383a6d.png",
      "repoUrl": "https://github.com/DevProgress/whodumpedtrump",
      "demoUrl": "http://whodumpedtrump.com/",
-     "license": "MIT"
+     "license": "MIT",
+     "slackChannel": "#proj-comments-status"
      },
      {
      "name": "Women for Hillary",
@@ -338,6 +371,7 @@
      "imageUrl": "https://cloud.githubusercontent.com/assets/12657/18649083/7157473a-7e72-11e6-8a54-af7fdc2e60cb.jpg",
      "repoUrl": "https://github.com/DevProgress/holzer",
      "demoUrl": "https://www.hillaryclinton.com/artist/holzer",
-     "license": ""
+     "license": "",
+     "slackChannel": "#proj-maps-showcase"
      }
 ]
